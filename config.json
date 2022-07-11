@@ -1,0 +1,9 @@
+{
+    "host": "sus.shhnowisnottheti.me",
+    "port": 25565,
+    "connectionDelay": 10,
+    "chatDelay": 500,
+    "spamChat": true,
+    "randomChat": true,
+    "spamMessages": ["Fun message!!!!"]
+}
